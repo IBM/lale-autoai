@@ -23,7 +23,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='lale-autoai',
-    version='0.1.0',
+    version='0.1.1',
     author='IBM',
     description="Lale operators based on AutoAI",
     long_description=long_description,
@@ -33,7 +33,7 @@ setup(
     packages=find_packages(),
     license='',
     install_requires=[
-        'autoai-ts-libs>=1.1.12',
+        'autoai-ts-libs>=2.0.0',
     ],
     extras_require={
         'full':[
