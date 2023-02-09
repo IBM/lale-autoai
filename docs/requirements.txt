@@ -12,7 +12,7 @@ pandas
 decorator
 h5py
 astunparse
-autoai-ts-libs>=1.1.12
+autoai-ts-libs>=2.0.0
 # subset of setup.py -> extras_require -> full
 lightgbm
 liac-arff>=2.4.0
