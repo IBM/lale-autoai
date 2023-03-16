@@ -45,12 +45,8 @@ Operators
 * lale_autoai.autoai_ts_libs. `WindowStandardRowMeanCenterUTS`_
 * lale_autoai.autoai_ts_libs. `WindowTransformerMTS`_
 * lale_autoai.autoai_ts_libs. `TSADPipeline`_
-* lale_autoai.autoai_ts_libs. `UnivariateGraphLassoAD`_
 * lale_autoai.autoai_ts_libs. `PointwiseBoundedAnomalyDetector`_
-* lale_autoai.autoai_ts_libs. `WindowedIsolationForest`_
 * lale_autoai.autoai_ts_libs. `Flatten`_
-* lale_autoai.autoai_ts_libs. `GeneralizedAnomalyModel`_
-* lale_autoai.autoai_ts_libs. `GaussianGraphicalModel`_
 * lale_autoai.autoai_ts_libs. `WindowedNN`_
 * lale_autoai.autoai_ts_libs. `WindowedPCA`_
 * lale_autoai.autoai_ts_libs. `WindowedLOF`_
@@ -81,12 +77,8 @@ Operators
 .. _`WindowStandardRowMeanCenterUTS`: lale_autoai.autoai_ts_libs.window_standard_row_mean_center_uts.html
 .. _`WindowTransformerMTS`: lale_autoai.autoai_ts_libs.window_transformer_mts.html
 .. _`TSADPipeline`: lale_autoai.autoai_ts_libs.ts_ad_pipeline.html
-.. _`UnivariateGraphLassoAD`: lale_autoai.autoai_ts_libs.graph_lasso_ad.html
 .. _`PointwiseBoundedAnomalyDetector`: lale_autoai.autoai_ts_libs.pointwise_bounded_ad.html
-.. _`WindowedIsolationForest`: lale_autoai.autoai_ts_libs.windowed_isolation_forest.html
 .. _`Flatten`: lale_autoai.autoai_ts_libs.flatten.html
-.. _`GeneralizedAnomalyModel`: lale_autoai.autoai_ts_libs.generalized_anomaly_model.html
-.. _`GaussianGraphicalModel`: lale_autoai.autoai_ts_libs.gaussian_graphical_anomaly_model.html
 .. _`WindowedNN`: lale_autoai.autoai_ts_libs.windowed_nn.html
 .. _`WindowedPCA`: lale_autoai.autoai_ts_libs.windowed_pca.html
 .. _`WindowedLOF`: lale_autoai.autoai_ts_libs.windowed_lof.html

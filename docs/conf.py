@@ -110,7 +110,7 @@ language = None
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.deps.*", "**.sklearn.*", "**.srom.*", "**.transforms.*", "**.utils.*", "**.watfore.*"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.deps.*", "**.sklearn.*", "**.srom.*", "**.transforms.*", "**.utils.*", "**.watfore.*", "**gaussian_graphical_anomaly_model*", "**generalized_anomaly_model*", "**graph_lasso_ad*", "**windowed_isolation_forest*"]
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = None
